@@ -5,6 +5,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/luftwaffe66/GoBfuscator)
 ![GitHub Forks](https://img.shields.io/github/forks/luftwaffe66/GoBfuscator)
 
+![GoBfuscator - obfuscate go scripts](banner.jpg)
+
 ## 🔍 Overview
 
 GoBfuscator is a professional-grade obfuscation tool specifically designed for Go (Golang) source code. It provides multiple layers of protection to make reverse engineering difficult while maintaining 100% runtime functionality.
