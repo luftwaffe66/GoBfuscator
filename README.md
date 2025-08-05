@@ -5,7 +5,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/luftwaffe66/GoBfuscator)
 ![GitHub Forks](https://img.shields.io/github/forks/luftwaffe66/GoBfuscator)
 
-![GoBfuscator - obfuscate go scripts](banner.jpg)
+![GoBfuscator - obfuscate go scripts](banner.png)
 
 ## 🔍 Overview
 
